@@ -4,3 +4,4 @@ let count = 0;
 for (let i = 0; i < nums.length; i++) nums[i] == 0 ? ++count : (count = count);
 
 console.log(count);
+//lana && merna 49/3
