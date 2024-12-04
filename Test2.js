@@ -9,3 +9,4 @@ for (let i = 2; i < 237; i++) {
     console.log(i);
   }
 }
+//lana && merna 49/3
