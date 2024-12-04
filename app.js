@@ -10,3 +10,4 @@ Number(
 ) && console.log("2");
 //c
 Number(num % 2 === 0 && num & (3 === 0) && num % 5 === 0) || console.log("3");
+//lana && merna 49/3
